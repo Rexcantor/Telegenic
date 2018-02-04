@@ -1,21 +1,23 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "telegenic",
+  "version": "0.0.1-ALPHA",
+  "description": "Create amazing slideshows on any platform!",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/Rexcantor/telegenic",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "slideshow",
+    "video",
+    "photos",
+    "music"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Rexcantor64",
+  "license": "MIT",
+  "dependencies": {
+    "videoshow": ">=0.1.11"
+  },
   "devDependencies": {
     "electron": "~1.7.8"
   }
