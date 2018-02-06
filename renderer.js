@@ -21,7 +21,8 @@ var options = {
     "test_imgs/5.png",
   ],
   // The length to apply to each image, in seconds, in case the input didn't specify.
-  globalImageDuration: 5
+  globalImageDuration: 5,
+  output: "output.mp4"
 };
 
 var telegenic = require("./lib/telegenic.js");
