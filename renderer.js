@@ -18,7 +18,7 @@ var options = {
     "test_imgs/2.png",
     "test_imgs/3.png",
     "test_imgs/4.png",
-    "test_imgs/5.png",
+    "test_imgs/5.png"
   ],
   // The length to apply to each image, in seconds, in case the input didn't specify.
   globalImageDuration: 5,
